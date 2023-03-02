@@ -1,0 +1,73 @@
+﻿<Window x:Class="Gammirovanie01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gammirovanie01"
+        mc:Ignorable="d"
+        Title="Шифрование" Height="450" Width="800" Background="#FF8C8C8C">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/main_back_texture.jpg"/>
+        </Grid.Background>
+        <RichTextBox x:Name="inputText" Background="#FF2E2E2E" Foreground="#FFE8E8E8" FontSize="16" Height="75" VerticalAlignment="Top" BorderBrush="#FFEAEAEA" CaretBrush="#FFEEEEEE" OpacityMask="#FFEBEBEB" FontFamily="Comic Sans MS" Margin="0,19,0,0">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Пример текста"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <RichTextBox x:Name="outputText" Margin="0,110,0,0" Foreground="#FFE8E8E8" FontSize="16" Height="75" VerticalAlignment="Top" Background="#FF535353" FontFamily="Comic Sans MS">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button Content="enc" Margin="547,231,8,0" Foreground="#FFEFEFEF" Click="EncBtn" FontSize="20" Height="59" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontWeight="Bold">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF4D4D4D" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="dec" Margin="547,292,8,0" Foreground="#FFEFEFEF" Click="DecBtn" FontSize="20" Height="58" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontWeight="Bold">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF4D4D4D" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <RichTextBox x:Name="keyText" Margin="10,231,0,14" FontFamily="Comic Sans MS" FontSize="12" Foreground="#FFEFEFEF" HorizontalAlignment="Left" Width="282">
+            <RichTextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF2F2F2F" Offset="1"/>
+                </LinearGradientBrush>
+            </RichTextBox.Background>
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Label Content="Ключ:" Margin="10,190,508,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" Foreground="#FFEFEFEF" FontSize="20"/>
+        <Button Content="Сгенерировать ключ" Margin="297,231,0,0" FontSize="14" FontFamily="Comic Sans MS" Foreground="Black" Click="GenerateKeyBtn" Height="44" VerticalAlignment="Top" HorizontalAlignment="Left" Width="245">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="White" Offset="0.559"/>
+                    <GradientStop Color="#FF090909" Offset="0"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="Save key" Margin="425,280,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.957,0.547" FontSize="12" Height="43" FontFamily="Comic Sans MS" Background="#FF6B6B6B" HorizontalAlignment="Left" Width="54" Click="SaveKeyBtn"/>
+        <Button Content="Save text" Margin="297,280,0,0" VerticalAlignment="Top" Height="43" FontSize="12" FontFamily="Comic Sans MS" Background="#FF6B6B6B" HorizontalAlignment="Left" Width="123" Click="SaveDecTextBtn"/>
+        <Button Content="Load text" Margin="297,328,0,0" VerticalAlignment="Top" Height="22" FontSize="12" FontFamily="Comic Sans MS" Background="#FF6B6B6B" HorizontalAlignment="Left" Width="245" Click="LoadTextBtn"/>
+        <Label Content="Романычев Даниил Алексеевич ЭИСБ-34" Margin="297,355,0,0" VerticalAlignment="Top" Height="33" Foreground="#FF9B9B9B" FontSize="16" HorizontalAlignment="Left" Width="493" FontFamily="Comic Sans MS"/>
+        <Button Content="Load key" HorizontalAlignment="Left" Margin="484,280,0,0" VerticalAlignment="Top" FontSize="12" FontFamily="Comic Sans MS" Width="58" Height="43" Background="#FF6B6B6B" Click="LoadKeyBtn"/>
+
+    </Grid>
+</Window>

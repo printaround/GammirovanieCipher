@@ -1,0 +1,63 @@
+D:\Daniil\Desktop\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.exe
+D:\Daniil\Desktop\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.deps.json
+D:\Daniil\Desktop\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.runtimeconfig.json
+D:\Daniil\Desktop\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.dll
+D:\Daniil\Desktop\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.pdb
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.csproj.AssemblyReference.cache
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\App.g.cs
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01_MarkupCompile.cache
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01_MarkupCompile.lref
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.g.resources
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.AssemblyInfoInputs.cache
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.AssemblyInfo.cs
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.csproj.CoreCompileInputs.cache
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.dll
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\refint\Gammirovanie01.dll
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.pdb
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.genruntimeconfig.cache
+D:\Daniil\Desktop\Gammirovanie01\obj\Debug\net6.0-windows\ref\Gammirovanie01.dll
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.exe
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.deps.json
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.runtimeconfig.json
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.dll
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.pdb
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.csproj.AssemblyReference.cache
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\App.g.cs
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01_MarkupCompile.cache
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01_MarkupCompile.lref
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.g.resources
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.AssemblyInfoInputs.cache
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.AssemblyInfo.cs
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.csproj.CoreCompileInputs.cache
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.dll
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\refint\Gammirovanie01.dll
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.pdb
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.genruntimeconfig.cache
+D:\Daniil\Desktop\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\ref\Gammirovanie01.dll
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.exe
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.deps.json
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.runtimeconfig.json
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.dll
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\bin\Debug\net6.0-windows\Gammirovanie01.pdb
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.csproj.AssemblyReference.cache
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\App.g.cs
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01_MarkupCompile.cache
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01_MarkupCompile.lref
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.g.resources
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.AssemblyInfoInputs.cache
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.AssemblyInfo.cs
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.csproj.CoreCompileInputs.cache
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.dll
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\refint\Gammirovanie01.dll
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.pdb
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\Gammirovanie01.genruntimeconfig.cache
+D:\Daniil\Desktop\YSTU\3 курс 1 семестр\Криптографические методы защиты информации\LR 2\Шифр Гаммирования ЛР 2\Gammirovanie01\obj\Debug\net6.0-windows\ref\Gammirovanie01.dll
